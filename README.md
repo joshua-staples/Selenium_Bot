@@ -6,7 +6,7 @@ I chose to write a bot for Amazon that will add a product to your cart and go th
 
 As technology advances we tend to be fighting against bots to buy the products we want, so why not build one myself to counter that inconvenience?
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/d-KKVSHoGe8)
 
 # Development Environment
 
@@ -24,3 +24,7 @@ As technology advances we tend to be fighting against bots to buy the products w
 * Error handling to take in any Amazon url and still work.
 * Email notifications working!
 * Text notifications!
+
+# Contact
+
+* sta16016@byui.edu
